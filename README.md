@@ -37,4 +37,4 @@ Key Insights:
 5. Job satisfaction scores are mixed; targeted improvements in roles with low satisfaction can help reduce attrition.
 
 Snapshot of Dashboard:
-
+https://github.com/sonawanedurgesh19/Power-BI-Dashboard/blob/main/Power%20BI%20Dashboard.png
